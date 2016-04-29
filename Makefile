@@ -1,4 +1,4 @@
-VERSION ?= $(shell ls -r | head -1 )
+VERSION ?= stable
 
 
 build:
